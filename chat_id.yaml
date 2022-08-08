@@ -1,0 +1,9 @@
+to_bot:
+- id: 0
+  name: Ilya
+  to_chat_id: '543612371'
+  to_path: test_bot
+- id: 1
+  name: Roman
+  to_chat_id: '543612371'
+  to_path: test_bot
